@@ -101,7 +101,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "volunteer" [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -128,7 +128,7 @@
       ]
     }
   ],
-  "awards": [
+  "awards" [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -148,4 +148,4 @@
       "reference": ""
     }
   ]
-}
+
