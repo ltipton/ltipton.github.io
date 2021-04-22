@@ -25,7 +25,7 @@
         "username": "",
         "url": "http://linkedin.com/"
       },
-  "interests": [
+  "interests" [
     {
       "name": "forensic science",
       "keywords": [
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "skills": [
+  "skills" [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -65,7 +65,7 @@
       ]
     }
   ],
-  "education": [
+  "education" [
     {
       "institution": "Chaminade University of Honolulu, Honolulu, HI",
       "area": "Forensic Science (expected Spring, 2023)",
@@ -75,7 +75,7 @@
       "gpa": "3.8"
     }
   ],
-  "work": [
+  "work" [
     {
       "company": "Chaminade University School of Nursing",
       "position": "Student Worker",
