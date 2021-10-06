@@ -24,6 +24,11 @@
         "network": "twitter",
         "username": "lauraomics",
         "url": "http://twitter.com/lauraomics"
+      },
+      {
+        "network": "instagram",
+        "username": "CUHDataSci",
+        "url": "http://instagram.com/CUHDataSci"
       }
     ]
   },
